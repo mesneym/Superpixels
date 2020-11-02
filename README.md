@@ -1,1 +1,2 @@
 # Superpixels
+SLIC Implementation Superpixels
